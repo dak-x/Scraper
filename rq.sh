@@ -1,0 +1,1 @@
+curl -X POST -F 'url=https://www.amazon.in/dp/B076B2BC19/ref=vp_d_pb_TIER3_cmlr_lp_B073NTCT4R_pd?_encoding=UTF8&' https://localhost:5051/post
